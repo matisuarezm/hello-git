@@ -5,7 +5,7 @@
 import java.util.*;
 public class hellogit {
     public static void main(String[] args) {
-        System.out.println("Holla GitHub");
+        System.out.println("Holla GitHub V3");
 
         Scanner input = new scanner(System.in);
 
